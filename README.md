@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y0nych&theme=cobalt&show_icons=true)
 
 <!--
 **Y0nych/Y0nych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
