@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Skranji&size=35&pause=100&color=F77930&background=18FEFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pavel+Sakharenkov;aboba)](https://git.io/typing-svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y0nych&theme=cobalt&show_icons=true)
 
 <!--
 **Y0nych/Y0nych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
